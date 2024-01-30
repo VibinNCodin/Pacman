@@ -31,3 +31,6 @@ Also, give me feedback for improving my coding, or any bad habits that you can r
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## P.s
+I probably wont update this further, but i might try to make a more refined version again after a year.
