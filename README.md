@@ -1,5 +1,6 @@
 # Pacman
-Pacman clone built with C++
+Pacman clone built with C++ 
+(7/12/2023 - 26/12/2023)
 
 You can find the code inside Pacman > Pacman > Pacman.cpp
 
